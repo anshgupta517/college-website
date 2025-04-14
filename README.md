@@ -3,10 +3,6 @@
 
 A modern web application built with React and Vite.
 
-[![Stars](https://img.shields.io/github/stars/anshgupta517/college-website?style=social)](https://github.com/anshgupta517/college-website)
-[![Forks](https://img.shields.io/github/forks/anshgupta517/college-website?style=social)](https://github.com/anshgupta517/college-website)
-[![Open Issues](https://img.shields.io/github/issues/anshgupta517/college-website)](https://github.com/anshgupta517/college-website/issues)
-
 ## Description
 
 This project aims to provide a user-friendly and responsive website for a college.
